@@ -1,0 +1,9 @@
+.FullPost{
+    padding:10px;
+    width:100%;
+    height:auto;
+margin:20px;
+}
+.FullPost:hover{
+    border-bottom:5px solid yellowgreen;
+}

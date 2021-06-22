@@ -1,0 +1,14 @@
+.Post{
+    padding:10px;
+    float:left;
+    box-sizing:border-box;
+    width:300px;
+    height:200px;
+     margin:1%;
+}
+.Post:hover
+{
+    background-color:#bbb;
+    font-weight:bolder;
+    color:teal;
+}
